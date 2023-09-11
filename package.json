@@ -1,0 +1,10 @@
+{
+    "name": "employee-tracker",
+    "version": "1.0.0",
+    "description": "A command-line application to manage employees and departments in a company",
+    "main": "server.js",
+    "dependencies": {
+        "inquirer": "^8.2.4",
+        "mysql2": "^2.2.1"
+    }
+}
