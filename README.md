@@ -5,9 +5,9 @@ This application compiles a comprehensive company database that categorizes empl
 
 ## Key Features
 
-Multiple Tables: Display various aspects of employee information through multiple tables.
-Employee Addition and Modification: Easily add new employees and update existing employee records.
-Employee Removal: Efficiently remove employees from the database when needed.
+### Multiple Tables: Display various aspects of employee information through multiple tables.
+### Employee Addition and Modification: Easily add new employees and update existing employee records.
+### Employee Removal: Efficiently remove employees from the database when needed.
 
 ## Application Purpose
 The primary purpose of this application is to provide a user-friendly interface for viewing and updating all employee-related information within the organization.
